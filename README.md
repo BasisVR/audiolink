@@ -1,3 +1,7 @@
+this is a heavily modified fork by BasisVR.
+
+we have included the below from the main repo, https://github.com/llealloo/audiolink
+
 [![Discord - AudioLink Discord](https://img.shields.io/badge/Discord-AudioLink_Discord-7289da?logo=discord&logoColor=7289da)](https://discord.gg/d5wjNwZBR3) [![Website - AudioLink Website](https://img.shields.io/badge/Website-AudioLink_Website-7289da)](https://audiolink.dev/)
 
 # AudioLink
